@@ -103,4 +103,4 @@ Senha para acesso às coordenadas: `SPACE2026`
 
 ## Autores
 
-Desenvolvido por Caique — FIAP, Global Solution 2026.1
+Desenvolvido por Caique, Rafael e Taysir — FIAP, Global Solution 2026.1
